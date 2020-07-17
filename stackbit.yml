@@ -13,7 +13,7 @@ metadata:
   authorURL: 'https://snipcart.com'
 models:
   config:
-    type: object
+    type: page
     label: Global site config
     fields:
       - type: string
