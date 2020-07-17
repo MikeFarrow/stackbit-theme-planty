@@ -15,6 +15,7 @@ models:
   config:
     type: page
     label: Global site config
+    file: config.yml
     fields:
       - type: string
         label: Title
